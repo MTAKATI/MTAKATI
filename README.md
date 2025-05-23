@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<img src="https://github.com/MTAKATI/MTAKATI/blob/main/assets/banner.png" alt="Sandiso Mtakati Banner" style="width:100%; border-radius:10px;"/>
+<img src="https://github.com/MTAKATI/MTAKATI/blob/master/assets/banner.png" alt="Sandiso Mtakati Banner" style="width:100%; border-radius:10px;"/>
 
 # 👋 Hello, I'm Sandiso Mtakati
 
