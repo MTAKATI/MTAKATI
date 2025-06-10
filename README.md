@@ -1,105 +1,97 @@
-<h1 align="center">Hi 👋, I'm Sandiso Mtakati</h1>
-<h3 align="center">A Passionate Frontend Developer from South Africa</h3>
+<h1 align="center">Hey there 👋, I'm Sandiso Mtakati</h1>
+<h3 align="center">Crafting Engaging Frontend Experiences | Aspiring Cloud & AI Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mtakati&label=Profile%20views&color=0e75b6&style=flat" alt="mtakati" />
+  <img src="https://komarev.com/ghpvc/?username=mtakati&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+🚀 I'm a passionate frontend developer based in **South Africa**. I enjoy transforming ideas into elegant, user-focused web experiences using modern tech stacks like **React**, **Tailwind**, and **TypeScript**.
+
+💡 Always learning — currently diving into **Data Engineering**, **Cloud Security**, and **Generative AI Agents**.
+
+🧠 I believe in building tech that solves real-world problems — beautifully and efficiently.
+
+---
+
+### 🚧 Featured Projects
+
+<table>
+  <tr>
+    <td><a href="https://github.com/MTAKATI/SollarIntelli-2r"><b>SollarIntelli ☀️</b></a></td>
+    <td>Smart energy usage tracker using modern frontend and cloud APIs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MTAKATI/Bona-Rate"><b>BonaRate ⭐</b></a></td>
+    <td>Community review app built with React Native, Firebase, and Google Maps.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MTAKATI/IntelliRead"><b>IntelliRead 📚</b></a></td>
+    <td>AI-powered reading assistant for dynamic comprehension and summarization.</td>
+  </tr>
+</table>
+
+> 🔗 Explore all of my repositories at [github.com/MTAKATI](https://github.com/MTAKATI)
+
+---
+
+### 🧰 Tech Stack
+
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
+
+**Backend & Databases:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**DevOps & Cloud:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+
+**AI & Data Tools:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**Others:**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtakati&theme=algolia" alt="Trophies" /></a>
-</p>
-
----
-
-### 🔭 Current Projects
-
-- 🚀 [SollarIntelli](https://github.com/MTAKATI/SollarIntelli-2r)
-- 📱 [BonaRate](https://github.com/MTAKATI/Bona-Rate)
-- 📖 [IntelliRead](https://github.com/MTAKATI/IntelliRead)
-
----
-
-### 🌱 Currently Learning
-
-- Data Engineering  
-- Cloud Security  
-- Generative AI & AI Agents  
-
----
-
-### 👨‍💻 My Work
-
-You can explore all of my projects at 👉 [github.com/MTAKATI](https://github.com/MTAKATI)
-
----
-
-### 📫 Contact Me
-
-- **Email:** sandisomtakati7@gmail.com  
-- **LinkedIn:** [Sandiso Mtakati](https://www.linkedin.com/in/sandiso-mtakati-a7b26321b/)
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/sandiso-mtakati" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/sandisomtakati" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <!-- Example grouped for clarity -->
-  <strong>Frontend:</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
-
-  <br/><br/><strong>Backend & Tools:</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
-  <br/><br/><strong>Cloud & DevOps:</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-
-  <br/><br/><strong>Data & AI:</strong><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-
-  <br/><br/><strong>Other Tools:</strong><br/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtakati&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mtakati&show_icons=true&theme=github_dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtakati&layout=compact&theme=github_dark" width="45%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtakati&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtakati" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtakati&theme=dark" />
 </p>
+
+---
+
+### 📬 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sandiso-mtakati-a7b26321b/)
+- 📧 sandisomtakati7@gmail.com  
+- 🧠 [HackerRank](https://www.hackerrank.com/sandisomtakati)
+
+> I'm always open to collaborating on meaningful projects, participating in hackathons, or contributing to open-source!
+
+---
+
