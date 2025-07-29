@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Sandiso Mtakati</h1>
-<h3 align="center">Crafting Engaging Frontend Experiences | Aspiring Cloud & AI Developer</h3>
+<h3 align="center">MERN Stack Developer | Cloud & AI Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mtakati&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
